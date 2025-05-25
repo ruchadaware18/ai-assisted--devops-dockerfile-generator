@@ -1,6 +1,7 @@
 # 🐳 AI-Powered Dockerfile Generator
 
 An intelligent developer tool that uses LLMs (Locally hosted LLaMA 3) to generate production-ready Dockerfiles based on your selected programming language and framework. It also validates the generated Dockerfile and provides options to copy, download, or lint the result.
+
 ![App_GIF](./AI_Dockerfile_Generator.gif)
 
 ---
